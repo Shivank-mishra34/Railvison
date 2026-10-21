@@ -374,3 +374,10 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 ### 🚆 RailVision
 
 **AI + IoT for safer railway transportation.**
+---
+### Authors
+Anjali Rai 
+Diti Joshi
+Gungun Singh 
+Shivank Mishra 
+
